@@ -20,6 +20,6 @@ The goal is to improve problem-solving skills, strengthen DSA fundamentals, and 
 
 Become better at problem-solving through consistent practice, revision, and learning from mistakes.
 
-**3 / 100 Days Completed.**
+
 
 One problem at a time. Consistency over perfection. 💪
